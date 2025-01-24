@@ -2,25 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Meu nome é Carlos Willian, sou formado em Administração e trabalho na área de faturamento hospitalar. Sou apaixonado por tecnologia e ciência.
 
-[Link to another page](./another-page.html).
+[Meu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carloswillian/))
+[Meus Projetos no GitHub]([https://github.com/seu-usuario](https://github.com/carloswilll))
+.
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Sobre Mim
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Experiências Profissionais
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Projetos
 
 ```js
 // Javascript code with syntax highlighting.
@@ -49,14 +51,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Habilidades 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Tecnologia        | Nível           | Experiência |
+|:------------------|:----------------|:------------|
+| Excel             | Avançado        | 5 Anos      |
+| SQL               | Básico          | 1 Ano       |
+| Power BI          | Intermediário   | 2 Anos      |
+| Python            | Básico          | 1 Ano       |
 
 ### There's a horizontal rule below this.
 
@@ -94,11 +96,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Minha Foto](_layouts/perfil.jpg)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Minha Foto](_layouts/perfil.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
