@@ -6,7 +6,7 @@ Apaixonado por tecnologia e ciência, busco constantemente utilizar a tecnologia
 
 Meu objetivo é contribuir para o desenvolvimento e inovação na área da saúde, utilizando dados e tecnologia para otimizar resultados e melhorar a qualidade dos serviços prestados.
 
-[Meu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carloswillian/))
+[Meu LinkedIn](https://www.linkedin.com/in/carloswillian/)
 
 ## Experiências Profissionais
 
