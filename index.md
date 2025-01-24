@@ -8,9 +8,9 @@ Meu objetivo é contribuir para o desenvolvimento e inovação na área da saúd
 
 [Meu LinkedIn](https://www.linkedin.com/in/carloswillian/)
 
-## Experiências Profissionais
+# Experiências Profissionais
 
-  Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje
+**Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje**
 
 Atuo na análise detalhada do processo de faturamento, investigando as causas de pendências hospitalares e otimizando o ciclo financeiro do hospital.
 
@@ -25,17 +25,21 @@ Atuo na análise detalhada do processo de faturamento, investigando as causas de
 
 Meu objetivo é garantir que todas as contas médicas sejam faturadas de maneira eficiente e precisa, contribuindo para a otimização dos resultados financeiros do hospital.
 
- **Outras Experiências:**
+ ## Outras Experiências:
  
 Estagiário de Cobranças | Junho de 2018 - Julho de 2018 (2 meses)
 Estagiário de Contabilidade | Outubro de 2015 - Junho de 2018 (2 anos e 9 meses)
 Estagiário de Vendas | Janeiro de 2012 - Dezembro de 2014 (3 anos) 
 
-#### Cursos em Andamento
+# Formação Academica
+
+**Bacharel Em Administração | IFPB - Instituto Federal de Educação da Paraíba | 2015 - 2021**
+
+### Cursos em Andamento
 
 *  EBA (Estatística do Básico ao Avançado) - Renata Biaggi
 
-##### Cursos Concluídos
+### Cursos Concluídos
 
 * Introdução à Gestão de Projetos (ENAP - 2020)
 * Análise de Dados e Power BI (Escola Conquer - 2022)
@@ -49,22 +53,42 @@ Estagiário de Vendas | Janeiro de 2012 - Dezembro de 2014 (3 anos)
 * Desenvolvimento Pessoal (Alura - 2023)
 * Business Agility (Alura - 2023)
 
-### Projetos
+# Projetos
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+### Análise de Dados com SQL do Brasileirão (2010-2019)
+
+A análise de dados do Brasileirão (2010-2019) utilizando SQL e Google BigQuery revelou insights sobre o total de gols, a média de idade dos jogadores e os maiores públicos anuais. Os dados foram visualizados em gráficos no Excel, facilitando a compreensão das tendências do campeonato. Os resultados fornecem uma compreensão profunda do Brasileirão, auxiliando na tomada de decisões estratégicas e no engajamento do público.
+
+
+  #### Gols Por Ano
+
+```SQL
+SELECT ano_campeonato,
+SUM(gols_man + gols_vis) AS total_gols
+FROM "basedosdados.mundo_transfermarkt_competicoes"."brasileirao_serie_a"
+WHERE ano_campeonato BETWEEN 2010 AND 2019
+GROUP BY ano_campeonato;
+```
+ #### Média de idade por ano
+ 
+```SQL
+SELECT ano_campeonato, AVG(subquery.total_idade) AS media_total_idade
+FROM (
+	SELECT ano_campeonato, (idade_media_titular_man + idade_media_titular_vis)/2 AS total_idade
+	FROM basedosdados.mundo_transfermarkt_competicoes.brasileirao_serie_a
+	WHERE ano_campeonato BETWEEN 2010 AND 2019
+) AS subquery
+GROUP BY ano_campeonato;
+```
+ #### Média de idade por ano
+ 
+```SQL
+ SELECT ano_campeonato, MAX(publico) AS Maior_publico
+FROM "basedosdados mundo_transfermarkt_competicoes. 'brasileirao_serie_a'
+WHERE ano_campeonato BETWEEN 2010 AND 2019
+GROUP BY ano_campeonato;
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 ###### Habilidades 
 
