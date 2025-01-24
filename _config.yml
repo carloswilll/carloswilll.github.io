@@ -1,6 +1,6 @@
-title: Portfólio de Carlos Willian
+title: Portfólio de Carlos
 logo: /assets/img/perfil.jpg
 description: Um portfólio profissional destacando minhas habilidades e projetos.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
