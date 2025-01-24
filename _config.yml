@@ -1,6 +1,5 @@
 title: Minimal theme
-logo: /carloswilll.github.io/_layouts
-/perfil.jpg
+logo: /_layouts/perfil.jpg
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
