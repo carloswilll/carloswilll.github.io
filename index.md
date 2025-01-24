@@ -7,15 +7,14 @@ Apaixonado por tecnologia e ciência, busco constantemente utilizar a tecnologia
 Meu objetivo é contribuir para o desenvolvimento e inovação na área da saúde, utilizando dados e tecnologia para otimizar resultados e melhorar a qualidade dos serviços prestados.
 
 [Meu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carloswillian/))
-[Meus Projetos no GitHub]([https://github.com/seu-usuario](https://github.com/carloswilll))
 
 ## Experiências Profissionais
 
-  **Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje**
+  Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje
 
 Atuo na análise detalhada do processo de faturamento, investigando as causas de pendências hospitalares e otimizando o ciclo financeiro do hospital.
 
-  Minhas responsabilidades incluem:
+  **Minhas responsabilidades incluem:**
 
  - **Monitorar e analisar o processo de faturamento:** Acompanho de perto cada etapa do pagamento, identificando possíveis falhas ou atrasos para garantir a eficiência do processo.
 - **Investigar as causas das pendências:** Realizo uma análise aprofundada para determinar os motivos que impedem o faturamento de contas médicas, coletando informações de diversas áreas do hospital.
@@ -32,6 +31,23 @@ Estagiário de Cobranças | Junho de 2018 - Julho de 2018 (2 meses)
 Estagiário de Contabilidade | Outubro de 2015 - Junho de 2018 (2 anos e 9 meses)
 Estagiário de Vendas | Janeiro de 2012 - Dezembro de 2014 (3 anos) 
 
+#### Cursos em Andamento
+
+*  EBA (Estatística do Básico ao Avançado) - Renata Biaggi
+
+##### Cursos Concluídos
+
+* Introdução à Gestão de Projetos (ENAP - 2020)
+* Análise de Dados e Power BI (Escola Conquer - 2022)
+* Business Intelligence (FIAP - 2021)
+* Saúde Suplementar (ENS - 2022)
+* Planejamento Estratégico - (Escola Conquer – 2022)
+* Gestão Tática e Operacional - (Escola Conquer – 2022)
+* Gestão Financeira (Escola Conquer – 2022)
+* Gestão Para Resultados (Escola Conquer – 2022)
+* Excel 2019: Gestão e Análise de Dados – (LinkedIn – 2022)
+* Desenvolvimento Pessoal (Alura - 2023)
+* Business Agility (Alura - 2023)
 
 ### Projetos
 
@@ -49,18 +65,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Habilidades 
 
