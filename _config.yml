@@ -1,6 +1,17 @@
 title: Portfólio de Carlos
 logo: /assets/img/perfil.jpg
-description: Administração, Analise de Dados e Contas Médicas.
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/carloswillian/">LinkedIn</a> |
+  <a href="https://carloswilll.github.io/">Portfólio</a> |
+  <a href="https://github.com/carloswilll">GitHub</a> |
+  <a href="carloswillianjp@gmail.com">E-mail</a>
+  </p>
+  
+  <p align="center">
+   Bem-vindo ao meu portfólio de projetos!
+Aqui, apresento como uso Análise de Dados para melhorar processos e criar soluções eficientes.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
