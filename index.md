@@ -6,11 +6,10 @@ Apaixonado por tecnologia e ciência, busco constantemente utilizar a tecnologia
 
 Meu objetivo é contribuir para o desenvolvimento e inovação na área da saúde, utilizando dados e tecnologia para otimizar resultados e melhorar a qualidade dos serviços prestados.
 
-[Meu LinkedIn](https://www.linkedin.com/in/carloswillian/)
 
 # Experiências Profissionais
 
-**Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje**
+Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje
 
 Atuo na análise detalhada do processo de faturamento, investigando as causas de pendências hospitalares e otimizando o ciclo financeiro do hospital.
 
@@ -89,6 +88,21 @@ WHERE ano_campeonato BETWEEN 2010 AND 2019
 GROUP BY ano_campeonato;
 ```
 
+### Painel Hospitalar de Análise de Cirurgias
+
+O Painel Hospitalar de Análise de Cirurgias foi desenvolvido para organizar e analisar dados de cirurgias, fornecendo insights estratégicos. Utilizando Excel e dados gerados pelo ChatGPT, o painel apresenta estatísticas e tendências através de tabelas dinâmicas e gráficos interativos. Resultados incluem melhor organização dos dados, identificação de tendências, e tomada de decisões mais eficazes, beneficiando a gestão hospitalar e o atendimento aos pacientes. Habilidades envolvidas incluem análise de dados, design de painéis e visualização de dados.
+
+### Case de Análise de Dados: Dashboard de Indicadores de Glosa
+
+O desenvolvimento de um dashboard interativo para análise de indicadores de glosa visou identificar oportunidades de redução de custos e otimização de processos. A ferramenta, criada para uma empresa fictícia, utiliza dados detalhados sobre glosas e apresenta visualizações intuitivas e filtros flexíveis. Os principais resultados incluem a identificação de padrões e motivos de glosa, fornecendo insights estratégicos para a tomada de decisões, redução de custos e melhoria de processos internos. O projeto destacou a importância da análise de dados e visualização para a gestão eficiente de pagamentos.
+
+### Case de Portfolio: Dashboard de Pendências Administrativas Hospitalares em Power BI
+
+O dashboard de pendências administrativas hospitalares em Power BI foi desenvolvido para monitorar o status das pendências, auxiliando na gestão financeira e operacional do hospital. Ele apresenta dados complexos de forma clara, permite análise e segmentação, e oferece uma experiência interativa. As soluções incluem gráficos de faturamento, pendências mensais e maiores contas por paciente, além de uma visualização hierárquica por setor e um painel detalhado de pendências. Os resultados incluem monitoramento em tempo real, decisões mais eficazes, melhor controle financeiro e comunicação aprimorada. Os benefícios abrangem gestão financeira otimizada, operacionalidade aprimorada, melhor experiência para os pacientes e melhoria da imagem do hospital.
+
+### Case de Análise de Dados: Dashboard do Brasileirão 2006 a 2022 
+
+A análise dos dados do Campeonato Brasileirão Série A de 2006 a 2022 revelou que Corinthians, Palmeiras, São Paulo e Flamengo se destacaram com 3 títulos cada. Internacional e Santos foram os mais vezes vice-campeões, enquanto o Avaí teve mais rebaixamentos (5). São Paulo teve o melhor aproveitamento nos pontos corridos (54,3%). A região Sudeste liderou em número de representantes e títulos, com São Paulo como o estado com mais clubes na Série A. A análise abordou campeões anuais, clubes rebaixados, desempenho anual e variações regionais e estaduais.
 
 ###### Habilidades 
 
@@ -99,66 +113,3 @@ GROUP BY ano_campeonato;
 | Power BI          | Intermediário   | 2 Anos      |
 | Python            | Básico          | 1 Ano       |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Minha Foto](_layouts/perfil.jpg)
-
-### Large image
-
-![Minha Foto](_layouts/perfil.jpg)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
