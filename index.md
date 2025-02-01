@@ -70,7 +70,7 @@ a compreensão das tendências do campeonato. Os resultados fornecem
 uma compreensão profunda do Brasileirão, auxiliando na tomada de 
 decisões estratégicas e no engajamento do público.
 
-#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/AnaliseBrasileirao2006-2022)
+#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/Analise_de_Dados_com_SQL_do_Brasileirao_2010-2019-)
 
 ### Painel Hospitalar de Análise de Cirurgias
 
@@ -78,7 +78,7 @@ decisões estratégicas e no engajamento do público.
 
 O Painel Hospitalar de Análise de Cirurgias foi desenvolvido para organizar e analisar dados de cirurgias, fornecendo insights estratégicos. Utilizando Excel e dados gerados pelo ChatGPT, o painel apresenta estatísticas e tendências através de tabelas dinâmicas e gráficos interativos. Resultados incluem melhor organização dos dados, identificação de tendências, e tomada de decisões mais eficazes, beneficiando a gestão hospitalar e o atendimento aos pacientes. Habilidades envolvidas incluem análise de dados, design de painéis e visualização de dados.
 
-#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/AnaliseBrasileirao2006-2022)
+#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/Painel-Hospitalar-de-Analise-de-Cirurgias)
 
 ### Case de Análise de Dados: Dashboard de Indicadores de Glosa
 
@@ -86,7 +86,7 @@ O Painel Hospitalar de Análise de Cirurgias foi desenvolvido para organizar e a
 
 O desenvolvimento de um dashboard interativo para análise de indicadores de glosa visou identificar oportunidades de redução de custos e otimização de processos. A ferramenta, criada para uma empresa fictícia, utiliza dados detalhados sobre glosas e apresenta visualizações intuitivas e filtros flexíveis. Os principais resultados incluem a identificação de padrões e motivos de glosa, fornecendo insights estratégicos para a tomada de decisões, redução de custos e melhoria de processos internos. O projeto destacou a importância da análise de dados e visualização para a gestão eficiente de pagamentos.
 
-#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/AnaliseBrasileirao2006-2022)
+#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/Dashboard-de-Indicadores-de-Glosa)
 
 ### Case de Portfolio: Dashboard de Pendências Administrativas Hospitalares em Power BI
 
@@ -94,7 +94,7 @@ O desenvolvimento de um dashboard interativo para análise de indicadores de glo
 
 O dashboard de pendências administrativas hospitalares em Power BI foi desenvolvido para monitorar o status das pendências, auxiliando na gestão financeira e operacional do hospital. Ele apresenta dados complexos de forma clara, permite análise e segmentação, e oferece uma experiência interativa. As soluções incluem gráficos de faturamento, pendências mensais e maiores contas por paciente, além de uma visualização hierárquica por setor e um painel detalhado de pendências. Os resultados incluem monitoramento em tempo real, decisões mais eficazes, melhor controle financeiro e comunicação aprimorada. Os benefícios abrangem gestão financeira otimizada, operacionalidade aprimorada, melhor experiência para os pacientes e melhoria da imagem do hospital.
 
-#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/AnaliseBrasileirao2006-2022)
+#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/carloswilll/Dashboard-de-Pendencias-Administrativas-Hospitalares-em-Power-BI)
 
 ### Case de Análise de Dados: Dashboard do Brasileirão 2006 a 2022 
 
