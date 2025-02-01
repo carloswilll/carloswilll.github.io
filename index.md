@@ -24,7 +24,7 @@ Atuo na análise detalhada do processo de faturamento, investigando as causas de
 
 Meu objetivo é garantir que todas as contas médicas sejam faturadas de maneira eficiente e precisa, contribuindo para a otimização dos resultados financeiros do hospital.
 
- ## Outras Experiências:
+### Outras Experiências:
  
 Estagiário de Cobranças | Junho de 2018 - Julho de 2018 (2 meses)
 Estagiário de Contabilidade | Outubro de 2015 - Junho de 2018 (2 anos e 9 meses)
@@ -32,7 +32,7 @@ Estagiário de Vendas | Janeiro de 2012 - Dezembro de 2014 (3 anos)
 
 # Formação Academica
 
-**Bacharel Em Administração | IFPB - Instituto Federal de Educação da Paraíba | 2015 - 2021**
+Bacharel Em Administração | IFPB - Instituto Federal de Educação da Paraíba | 2015 - 2021
 
 **TCC - Proposta de implementação do mapeamento de processos no setor de faturamento em hospital privado no município de João Pessoa/PB - IFPB**
 
