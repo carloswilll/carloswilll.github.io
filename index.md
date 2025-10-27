@@ -60,7 +60,7 @@ Obtive nota máxima no TCC, onde realizei um mapeamento de processos do faturame
 
 ### Análise de Dados com SQL do Brasileirão (2010-2019)
 
-![SQL](https://th.bing.com/th/id/OIP.4-c-OpO4nblAaUyDrmje-QHaEK?rs=1&pid=ImgDetMain)
+![SQL](https://tse3.mm.bing.net/th/id/OIP.5b-hOa7IU8W0buTvjIzGgAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 A análise de dados do Brasileirão (2010-2019) utilizando SQL
 e Google BigQuery revelou insights sobre o total de gols, 
