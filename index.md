@@ -9,7 +9,7 @@ Meu objetivo é contribuir para o desenvolvimento e inovação na área da saúd
 
 # Experiências Profissionais
 
-Auxiliar de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje
+Analista de Contas Médicas | Hospital Nossa Senhora das Neves | Janeiro de 2019 - Hoje
 
 Atuo na análise detalhada do processo de faturamento, investigando as causas de pendências hospitalares e otimizando o ciclo financeiro do hospital.
 
