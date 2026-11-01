@@ -1,13 +1,16 @@
-title: Portfólio de Carlos
+title: Carlos Willian | Dados & Automação
 logo: /assets/img/perfil.jpg
 description:
   <p align="center">
-  <a href="https://www.linkedin.com/in/carloswillian/">LinkedIn</a> |
-  <a href="https://carloswilll.github.io/">Portfólio</a> |
-  <a href="https://github.com/carloswilll">GitHub</a>
+    <strong>Analista de Dados, BI & Automação de Processos</strong><br>
+    <em>Excel · Google Sheets · Power BI · Power Automate · Python & IA</em>
   </p>
-  
   <p align="center">
-   Bem-vindo ao meu portfólio de projetos!
-   Aqui, apresento como uso Análise de Dados para melhorar processos e criar soluções eficientes.
+    Transformo rotinas operacionais manuais e bases complexas em painéis visuais e fluxos automatizados que economizam horas de trabalho e apoiam decisões estratégicas.
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/carloswillian/">LinkedIn</a> |
+    <a href="https://github.com/carloswilll">GitHub</a> |
+    <a href="https://www.instagram.com/aprendendocomwill/">@aprendendocomwill</a>
+  </p>
 theme: jekyll-theme-minimal
